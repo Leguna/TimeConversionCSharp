@@ -4,10 +4,15 @@ static class TimeConversion
 {
     public static void Main(string[] args)
     {
-        string? s = Console.ReadLine();
-        string? result = TimeConvert(s);
+        string[] testResults =
+        {
+            "01:12:00AM", "12:12:00aM", "12:12:00PM", "12:12:00PM", "11:12:00Pm"
+        };
 
-        Console.WriteLine(result);
+        foreach (string result in testResults)
+        {
+            Console.WriteLine(TimeConvert(result));
+        }
     }
 
 
