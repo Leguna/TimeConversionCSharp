@@ -1,0 +1,15 @@
+D:\_Kerja\_devTest\TimeConversionExerciseTwo\TImeConversion\bin\Debug\net6.0\TimeConversion.exe
+D:\_Kerja\_devTest\TimeConversionExerciseTwo\TImeConversion\bin\Debug\net6.0\TimeConversion.deps.json
+D:\_Kerja\_devTest\TimeConversionExerciseTwo\TImeConversion\bin\Debug\net6.0\TimeConversion.runtimeconfig.json
+D:\_Kerja\_devTest\TimeConversionExerciseTwo\TImeConversion\bin\Debug\net6.0\TimeConversion.dll
+D:\_Kerja\_devTest\TimeConversionExerciseTwo\TImeConversion\bin\Debug\net6.0\TimeConversion.pdb
+D:\_Kerja\_devTest\TimeConversionExerciseTwo\TImeConversion\obj\Debug\net6.0\TimeConversion.csproj.AssemblyReference.cache
+D:\_Kerja\_devTest\TimeConversionExerciseTwo\TImeConversion\obj\Debug\net6.0\TimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Kerja\_devTest\TimeConversionExerciseTwo\TImeConversion\obj\Debug\net6.0\TimeConversion.AssemblyInfoInputs.cache
+D:\_Kerja\_devTest\TimeConversionExerciseTwo\TImeConversion\obj\Debug\net6.0\TimeConversion.AssemblyInfo.cs
+D:\_Kerja\_devTest\TimeConversionExerciseTwo\TImeConversion\obj\Debug\net6.0\TimeConversion.csproj.CoreCompileInputs.cache
+D:\_Kerja\_devTest\TimeConversionExerciseTwo\TImeConversion\obj\Debug\net6.0\TimeConversion.dll
+D:\_Kerja\_devTest\TimeConversionExerciseTwo\TImeConversion\obj\Debug\net6.0\refint\TimeConversion.dll
+D:\_Kerja\_devTest\TimeConversionExerciseTwo\TImeConversion\obj\Debug\net6.0\TimeConversion.pdb
+D:\_Kerja\_devTest\TimeConversionExerciseTwo\TImeConversion\obj\Debug\net6.0\TimeConversion.genruntimeconfig.cache
+D:\_Kerja\_devTest\TimeConversionExerciseTwo\TImeConversion\obj\Debug\net6.0\ref\TimeConversion.dll
