@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_Kerja\\_devTest\\TimeConversionExerciseTwo\\TImeConversion\\TimeConversion.csproj": {}
+    "D:\\_Kerja\\_devTest\\TimeConversionExerciseTwo\\TimeConversion.csproj": {}
   },
   "projects": {
-    "D:\\_Kerja\\_devTest\\TimeConversionExerciseTwo\\TImeConversion\\TimeConversion.csproj": {
+    "D:\\_Kerja\\_devTest\\TimeConversionExerciseTwo\\TimeConversion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_Kerja\\_devTest\\TimeConversionExerciseTwo\\TImeConversion\\TimeConversion.csproj",
+        "projectUniqueName": "D:\\_Kerja\\_devTest\\TimeConversionExerciseTwo\\TimeConversion.csproj",
         "projectName": "TimeConversion",
-        "projectPath": "D:\\_Kerja\\_devTest\\TimeConversionExerciseTwo\\TImeConversion\\TimeConversion.csproj",
+        "projectPath": "D:\\_Kerja\\_devTest\\TimeConversionExerciseTwo\\TimeConversion.csproj",
         "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
-        "outputPath": "D:\\_Kerja\\_devTest\\TimeConversionExerciseTwo\\TImeConversion\\obj\\",
+        "outputPath": "D:\\_Kerja\\_devTest\\TimeConversionExerciseTwo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmad\\AppData\\Roaming\\NuGet\\NuGet.Config"
